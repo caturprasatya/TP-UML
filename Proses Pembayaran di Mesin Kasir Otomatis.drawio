@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6" pages="2">
+  <diagram name="Page-1" id="bYpp7JOBaATRRRrKG5Gl">
+    <mxGraphModel dx="2695" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-1" value="" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="ju3Yct1l90ux_Rx0Lgh9-2" edge="1">
+          <mxGeometry x="-0.6667" y="-160" width="80" relative="1" as="geometry">
+            <mxPoint x="-280" y="150" as="sourcePoint" />
+            <mxPoint x="-276.52" y="251.20000000000005" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ju3Yct1l90ux_Rx0Lgh9-2" target="ju3Yct1l90ux_Rx0Lgh9-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-2" value="Idle" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ju3Yct1l90ux_Rx0Lgh9-4" target="ju3Yct1l90ux_Rx0Lgh9-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-4" value="Menunggu Input Kode Booking" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-355" y="279" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ju3Yct1l90ux_Rx0Lgh9-6" target="ju3Yct1l90ux_Rx0Lgh9-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-6" value="Memverifikasi Kode" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-355" y="380" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ju3Yct1l90ux_Rx0Lgh9-8" target="ju3Yct1l90ux_Rx0Lgh9-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-8" value="Menampilkan Detail Pembayaran" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-355" y="480" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ju3Yct1l90ux_Rx0Lgh9-9" target="ju3Yct1l90ux_Rx0Lgh9-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-9" value="Menunggu Konfirmasi" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-355" y="580" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ju3Yct1l90ux_Rx0Lgh9-10" target="ju3Yct1l90ux_Rx0Lgh9-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-10" value="Menampilkan Opsi Pembayaran" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-355" y="690" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ju3Yct1l90ux_Rx0Lgh9-11" target="ju3Yct1l90ux_Rx0Lgh9-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-11" value="Memproses Pembayaran" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-355" y="790" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ju3Yct1l90ux_Rx0Lgh9-12" target="ju3Yct1l90ux_Rx0Lgh9-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-12" value="Transaksi Berhasil" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-355" y="890" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ju3Yct1l90ux_Rx0Lgh9-13" target="ju3Yct1l90ux_Rx0Lgh9-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-13" value="Mencetak Dokumen" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-355" y="990" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ju3Yct1l90ux_Rx0Lgh9-14" target="ju3Yct1l90ux_Rx0Lgh9-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-14" value="Selesai" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-355" y="1080" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-23" value="Idle" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="1170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-25" value="Penumpang memasukkan kode booking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="339" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-26" value="Penumpang memilih &quot;Pembayaran Tiket&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="240" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-27" value="Kode booking valid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-28" value="Sistem menampilkan detail pembayaran" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="540" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-29" value="Penumpang mengonfirmasi pembayaran" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="640" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-30" value="Penumpang memilih metode pembayaran (kartu kredit)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="750" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-31" value="Pembayaran berhasil diproses" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="850" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-32" value="Sistem mencetak dokumen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="950" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-33" value="Penumpang mengambil dokumen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="1049" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ju3Yct1l90ux_Rx0Lgh9-34" value="Sistem kembali ke layar utama" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="1140" width="190" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yO8Kg9jHkZM5iifvcyBP" name="Page-2">
+    <mxGraphModel dx="1845" dy="886" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
