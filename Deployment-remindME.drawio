@@ -95,10 +95,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9qTncuzwOLMPVxKCaAhH-36" value="Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1814" y="1754" width="70" height="30" as="geometry" />
+          <mxGeometry x="1820" y="1755" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9qTncuzwOLMPVxKCaAhH-37" value="HTTPS/internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="1784" width="110" height="30" as="geometry" />
+          <mxGeometry x="1800" y="1780" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9qTncuzwOLMPVxKCaAhH-40" value="response" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.963;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=45;exitDy=5;exitPerimeter=0;" edge="1" parent="1" source="9qTncuzwOLMPVxKCaAhH-17" target="9qTncuzwOLMPVxKCaAhH-8">
           <mxGeometry relative="1" as="geometry">
@@ -123,6 +123,9 @@
         </mxCell>
         <mxCell id="9qTncuzwOLMPVxKCaAhH-46" value="Deployment RemindME APP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1270" y="1450" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9qTncuzwOLMPVxKCaAhH-47" value="&amp;lt;&amp;lt;protocol&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1560" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
