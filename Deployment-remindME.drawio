@@ -7,7 +7,7 @@
         <mxCell id="6e0c8c40b5770093-72" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=194;tabHeight=22;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=10;align=center;" parent="1" vertex="1">
           <mxGeometry x="219" y="1200" width="1001" height="940" as="geometry" />
         </mxCell>
-        <mxCell id="9qTncuzwOLMPVxKCaAhH-1" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="9qTncuzwOLMPVxKCaAhH-1" value="Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1900" y="1390" width="390" height="660" as="geometry" />
         </mxCell>
         <mxCell id="9qTncuzwOLMPVxKCaAhH-2" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -19,20 +19,20 @@
         <mxCell id="9qTncuzwOLMPVxKCaAhH-4" value="&amp;lt;&amp;lt;artefact&amp;gt;&amp;gt;&lt;div&gt;Flutter APP&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1655" y="1440" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9qTncuzwOLMPVxKCaAhH-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9qTncuzwOLMPVxKCaAhH-1" target="9qTncuzwOLMPVxKCaAhH-2">
+        <mxCell id="9qTncuzwOLMPVxKCaAhH-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.69;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.115;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9qTncuzwOLMPVxKCaAhH-1" target="9qTncuzwOLMPVxKCaAhH-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1920" y="1810" as="sourcePoint" />
             <mxPoint x="1970" y="1760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9qTncuzwOLMPVxKCaAhH-8" value="Notification Service" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="1890" width="230" height="160" as="geometry" />
+          <mxGeometry x="1584" y="1890" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="9qTncuzwOLMPVxKCaAhH-11" value="Whatapp BOT API" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="1930" width="130" height="50" as="geometry" />
+          <mxGeometry x="1594" y="1930" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9qTncuzwOLMPVxKCaAhH-12" value="Whatapp BOT API" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="1990" width="130" height="50" as="geometry" />
+        <mxCell id="9qTncuzwOLMPVxKCaAhH-12" value="Telegram BOT API" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1664" y="1990" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9qTncuzwOLMPVxKCaAhH-13" value="Whatapp BOT" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1330" y="1890" width="180" height="50" as="geometry" />
@@ -75,6 +75,33 @@
         </mxCell>
         <mxCell id="9qTncuzwOLMPVxKCaAhH-27" value="Databases" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2059" y="1440" width="72" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9qTncuzwOLMPVxKCaAhH-28" value="HTTPS/internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="1440" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9qTncuzwOLMPVxKCaAhH-29" value="OpenWheaterMap Service&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1720" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9qTncuzwOLMPVxKCaAhH-30" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1609" y="1755" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9qTncuzwOLMPVxKCaAhH-32" value="Wheater API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1628" y="1775" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9qTncuzwOLMPVxKCaAhH-33" value="HTTPS/internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1970" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9qTncuzwOLMPVxKCaAhH-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.65;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.597;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9qTncuzwOLMPVxKCaAhH-29" target="9qTncuzwOLMPVxKCaAhH-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1920" y="1800" as="sourcePoint" />
+            <mxPoint x="1970" y="1750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qTncuzwOLMPVxKCaAhH-36" value="Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1814" y="1754" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9qTncuzwOLMPVxKCaAhH-37" value="HTTPS/internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1784" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
